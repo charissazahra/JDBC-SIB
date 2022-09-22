@@ -9,7 +9,7 @@ import models.Region;
 
 /**
  *
- * @author Admin
+ * @charissa
  */
 public interface IRegionDAO {
     public List<Region> getAll ();
