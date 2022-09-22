@@ -11,7 +11,7 @@ package models;
 
 /**
  *
- * @author Admin
+ * @charissa
  */
 public class Region {
 private int region_id;
