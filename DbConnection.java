@@ -11,7 +11,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author Admin
+ * @charissa
  */
 public class DbConnection {
     private Connection con;
